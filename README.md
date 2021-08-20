@@ -15,5 +15,3 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 We can add any text we want
-
-I am editing the file
